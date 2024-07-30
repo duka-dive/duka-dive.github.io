@@ -360,7 +360,7 @@ li {
     transform: translate(-50%, -50%) rotate(-280deg);
     width: 400%;
     height: 500%;
-    background-image: conic-gradient(#ff00bb 0deg, #ff00bb 90deg, transparent 130deg, transparent 180deg, #4530FF 180deg, #4530FF 270deg, transparent 310deg, transparent 360deg);
+    background-image: conic-gradient(#ee231c 0deg, hsl(7, 84%, 45%) 90deg, transparent 130deg, transparent 180deg, #e0dfe9 180deg, #d5d3e6 270deg, transparent 310deg, transparent 360deg);
     transition: transform 2s;
 }
 
